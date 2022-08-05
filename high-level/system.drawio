@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T19:28:13.279Z" agent="5.0 (X11)" version="20.2.2" etag="y4j4Klenyc_Z6teNbu2p" type="github"><diagram id="VeldlwHI9q08mUXxkENe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-05T19:37:29.638Z" agent="5.0 (X11)" etag="ds9M96QLJVcfHhtqxPOa" version="20.2.2" type="github">
+  <diagram id="VeldlwHI9q08mUXxkENe" name="Page-1">
+    <mxGraphModel dx="1374" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-10" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-11" value="UI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="70" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="1cr6zOQKUaInIYXYI9J9-5" target="1cr6zOQKUaInIYXYI9J9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=30;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="1cr6zOQKUaInIYXYI9J9-5" target="1cr6zOQKUaInIYXYI9J9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="355" y="80" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-2" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Server-side&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;DB&lt;/font&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=40;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="395.6" y="90" width="68.8" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack/32/57-File_Format-Php-128.png;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-6" value="Back end service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="1cr6zOQKUaInIYXYI9J9-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-9" value="User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="90" y="178.5" width="70" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1cr6zOQKUaInIYXYI9J9-13" value="Admin side initial system state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="424" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
