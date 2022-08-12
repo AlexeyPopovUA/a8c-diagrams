@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T19:24:50.738Z" agent="5.0 (X11)" etag="oQTCjFiKq2iV_qtTAF3R" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T19:26:35.988Z" agent="5.0 (X11)" etag="9bbyhyvRMqq01uh7KNSV" version="20.2.3" type="github">
   <diagram id="OkX3KcsTpLMw8p_l1P4A" name="Page-1">
     <mxGraphModel dx="1374" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,9 +75,6 @@
         <mxCell id="UPDO5P5rNtbZPPXbk3UU-22" value="react" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-128.png;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="330" y="100.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="UPDO5P5rNtbZPPXbk3UU-27" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1474" width="160" height="115.6" as="geometry" />
-        </mxCell>
         <mxCell id="UPDO5P5rNtbZPPXbk3UU-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="170" y="1120" width="620" height="320" as="geometry" />
         </mxCell>
@@ -102,14 +99,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UPDO5P5rNtbZPPXbk3UU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-47" target="UPDO5P5rNtbZPPXbk3UU-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UPDO5P5rNtbZPPXbk3UU-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Assets fetching&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UPDO5P5rNtbZPPXbk3UU-41" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="275.6" y="1490" width="68.8" height="68.8" as="geometry" />
         </mxCell>
         <mxCell id="UPDO5P5rNtbZPPXbk3UU-47" value="Service&lt;br&gt; worker" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;fontSize=24;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="280" y="1330" width="60" height="63" as="geometry" />
@@ -191,6 +182,75 @@
         </mxCell>
         <mxCell id="UPDO5P5rNtbZPPXbk3UU-70" value="no connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="279" y="934" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-72" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2004" width="160" height="115.6" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1650" width="620" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-74" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Cache API&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=40;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="516" y="1851.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-76" target="UPDO5P5rNtbZPPXbk3UU-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1778.5" width="70" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-77" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;UI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-82" target="UPDO5P5rNtbZPPXbk3UU-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1849.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1892" />
+              <mxPoint x="430" y="1892" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-82" target="UPDO5P5rNtbZPPXbk3UU-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Assets fetching&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-81" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="275.6" y="2020" width="68.8" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-82" value="Service&lt;br&gt; worker" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;fontSize=24;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1860" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;strokeWidth=2;endArrow=classic;endFill=1;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-80" target="UPDO5P5rNtbZPPXbk3UU-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1900" as="sourcePoint" />
+            <mxPoint x="310" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-84" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-128.png;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="1690" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-85" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1480" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=none;startFill=1;strokeWidth=2;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" edge="1" parent="1" source="UPDO5P5rNtbZPPXbk3UU-88" target="UPDO5P5rNtbZPPXbk3UU-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-87" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="275.6" y="1503.4" width="68.8" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-88" value="&lt;font color=&quot;#EA6B66&quot;&gt;x&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=none;startFill=0;strokeWidth=2;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="UPDO5P5rNtbZPPXbk3UU-88" source="UPDO5P5rNtbZPPXbk3UU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314.5" y="1436" as="sourcePoint" />
+            <mxPoint x="314.5" y="1496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPDO5P5rNtbZPPXbk3UU-90" value="no connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="1450" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
