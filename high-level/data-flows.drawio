@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T14:54:36.655Z" agent="5.0 (X11)" etag="t7Fyj9hJcUFop0IpJo4T" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T14:55:05.435Z" agent="5.0 (X11)" etag="qoUVhpGsDqhkr4U6yTEh" version="20.2.3" type="github">
   <diagram id="n3OmtDXUTwSOZxKZHaJ7" name="Page-1">
     <mxGraphModel dx="2813" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-32" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-32" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="2530.6" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-34" value="dequeue &quot;update&quot; job by id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
@@ -299,7 +299,7 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-49" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="119.5" y="2250.4" width="58" height="50.6" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-45" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-45" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="49.25" y="2140.2" width="140" height="110.4" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;strokeWidth=2;endArrow=none;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-22" target="X_6sAjhMBoOv0ny-Y4ly-45">
@@ -415,7 +415,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-80" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-80" value="Success&lt;br&gt;and online?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="3410" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-81" value="dequeue &quot;delete&quot; job by id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
