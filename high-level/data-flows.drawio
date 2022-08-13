@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T14:42:08.079Z" agent="5.0 (X11)" etag="GU9EA6hm2VbrWXQg0iV_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T14:47:17.019Z" agent="5.0 (X11)" etag="ea3s_581JMK48V95KhqV" version="20.2.3" type="github">
   <diagram id="n3OmtDXUTwSOZxKZHaJ7" name="Page-1">
     <mxGraphModel dx="2813" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,10 +70,10 @@
         <mxCell id="Z41pFUrx37civVczPFok-23" value="prepare existent data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="275" y="160" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z41pFUrx37civVczPFok-24" value="sync records with store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Z41pFUrx37civVczPFok-24" value="sync records with store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="510" y="255" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z41pFUrx37civVczPFok-25" value="put new records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Z41pFUrx37civVczPFok-25" value="put new records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="236" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z41pFUrx37civVczPFok-29" value="render data from redux state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
@@ -146,7 +146,7 @@
         <mxCell id="Z41pFUrx37civVczPFok-48" value="prepare existent data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="260" y="980" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z41pFUrx37civVczPFok-49" value="sync records with store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Z41pFUrx37civVczPFok-49" value="sync records with store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="495" y="1075" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z41pFUrx37civVczPFok-51" value="render data from redux state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
@@ -212,10 +212,10 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-15" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-150" y="2060.6" width="68.8" height="68.8" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-18" value="sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-18" value="sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="527" y="1880" width="66" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-19" value="put new record to the list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-19" value="put new record to the list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="246" y="1870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-20" value="render data from redux state" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
@@ -242,10 +242,10 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A&lt;font style=&quot;font-size: 24px;&quot;&gt;pply update&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="2400" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-28" value="enqueue &quot;update&quot; job with id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-28" value="enqueue &quot;update&quot; job with id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="455" y="1970" width="210" height="50.6" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-31" value="add job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-31" value="add job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="275" y="1970" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;startArrow=none;startFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-32" target="X_6sAjhMBoOv0ny-Y4ly-11">
