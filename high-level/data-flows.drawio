@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T14:32:37.232Z" agent="5.0 (X11)" etag="2t-FkTR7dD4RKmPi-vUz" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T14:40:43.629Z" agent="5.0 (X11)" etag="09PmrhXSm3jN-sGkCxg0" version="20.2.3" type="github">
   <diagram id="n3OmtDXUTwSOZxKZHaJ7" name="Page-1">
     <mxGraphModel dx="2813" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;startArrow=none;startFill=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-23" target="X_6sAjhMBoOv0ny-Y4ly-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="2215" />
+              <mxPoint x="260" y="2415" />
               <mxPoint x="260" y="1925" />
             </Array>
           </mxGeometry>
@@ -210,7 +210,7 @@
           <mxGeometry x="40" y="1680" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-15" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="2060.6" width="68.8" height="68.8" as="geometry" />
+          <mxGeometry x="-150" y="2060.6" width="68.8" height="68.8" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-18" value="sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="527" y="1880" width="66" height="40" as="geometry" />
@@ -228,7 +228,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-22" value="fetch fresh record by id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-41.5" y="2080" width="323" height="30" as="geometry" />
+          <mxGeometry x="-21.5" y="2080" width="281.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-23" target="X_6sAjhMBoOv0ny-Y4ly-15">
           <mxGeometry relative="1" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A&lt;font style=&quot;font-size: 24px;&quot;&gt;pply update&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="2200" width="195" height="30" as="geometry" />
+          <mxGeometry x="22.5" y="2400" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-28" value="enqueue &quot;update&quot; job with id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="455" y="1970" width="210" height="50.6" as="geometry" />
@@ -251,8 +251,8 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;startArrow=none;startFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-32" target="X_6sAjhMBoOv0ny-Y4ly-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="2490" />
-              <mxPoint x="1070" y="2490" />
+              <mxPoint x="120" y="2660" />
+              <mxPoint x="1070" y="2660" />
               <mxPoint x="1070" y="1955" />
             </Array>
           </mxGeometry>
@@ -260,26 +260,47 @@
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-32" target="X_6sAjhMBoOv0ny-Y4ly-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-360" y="2340" />
-              <mxPoint x="-360" y="1860" />
-              <mxPoint x="83" y="1860" />
+              <mxPoint x="-360" y="2581" />
+              <mxPoint x="-360" y="1840" />
+              <mxPoint x="83" y="1840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-32" value="Success?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2290" width="120" height="100" as="geometry" />
+          <mxGeometry x="60" y="2530.6" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-34" value="dequeue &quot;update&quot; job by id " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="465" y="2440" width="210" height="50.6" as="geometry" />
+          <mxGeometry x="450" y="2600" width="210" height="50.6" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-35" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="122" y="2400" width="58" height="50.6" as="geometry" />
+          <mxGeometry x="159.5" y="2580" width="58" height="50.6" as="geometry" />
         </mxCell>
         <mxCell id="X_6sAjhMBoOv0ny-Y4ly-36" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="2339.4" width="58" height="50.6" as="geometry" />
+          <mxGeometry x="2" y="2580" width="58" height="50.6" as="geometry" />
         </mxCell>
-        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-39" value="data provider layer&lt;br&gt;re-tries N times on schedule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-311.2" y="2269.4" width="220" height="70" as="geometry" />
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-39" value="re-try job on schedule and when online" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-311.2" y="2510" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="X_6sAjhMBoOv0ny-Y4ly-45" target="X_6sAjhMBoOv0ny-Y4ly-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="2200" />
+              <mxPoint x="-320" y="1860" />
+              <mxPoint x="60" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-45" value="Success?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2150.4" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-47" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="2200" width="58" height="50.6" as="geometry" />
+        </mxCell>
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-48" value="re-try job on schedule&lt;br&gt; and when online" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="2129.4" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X_6sAjhMBoOv0ny-Y4ly-49" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="2250.4" width="58" height="50.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
