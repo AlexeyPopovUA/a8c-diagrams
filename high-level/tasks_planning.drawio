@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T12:57:22.465Z" agent="5.0 (X11)" version="20.2.3" etag="tAeIgI4ecrkxJAPWNRKO" type="github"><diagram id="1GaKdVyMht3T5XDp56yV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-16T13:09:36.159Z" agent="5.0 (X11)" etag="Wz2l3l0NpAU0dGUjH5Nb" version="20.2.3" type="github">
+  <diagram id="1GaKdVyMht3T5XDp56yV" name="Page-1">
+    <mxGraphModel dx="1145" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-1" value="Full offline support for Pistachio plugin" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-2" target="nsW-v02mXw-lNhzaYfIK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-2" value="1. Install empty service worker for Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-3" value="2. Implement static application shell for the admin page of Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-5" target="nsW-v02mXw-lNhzaYfIK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-5" value="3. Move data of candidate rows to the Redux global store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-6" target="nsW-v02mXw-lNhzaYfIK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-6" value="4. Connect candidates Redux state with indexed db table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-8" target="nsW-v02mXw-lNhzaYfIK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-8" value="5. Select and introduce orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-9" value="6. Move candidate &quot;update&quot; and &quot;delete&quot; operations to the orchestrator layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-12" value="7. Introduce job queues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-14" target="nsW-v02mXw-lNhzaYfIK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-14" value="8. Ability to retry requests from the queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-16" target="nsW-v02mXw-lNhzaYfIK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-16" value="9. Add support of scheduling of queued jobs in orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-18" target="nsW-v02mXw-lNhzaYfIK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-18" value="10. Add scheduling of refreshing of candidate records list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-21" value="11. Update request should modify the latest version of candidate record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-25" value="12. Check delete request failures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
