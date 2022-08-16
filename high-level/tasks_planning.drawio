@@ -1,137 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T13:20:20.096Z" agent="5.0 (X11)" etag="Dt9_ZzK67StsyUy-59ZX" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T14:24:19.663Z" agent="5.0 (X11)" etag="_zQdxB-vCSztjb4_b78j" version="20.2.3" type="github">
   <diagram id="1GaKdVyMht3T5XDp56yV" name="Page-1">
-    <mxGraphModel dx="1145" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-1" value="Full offline support for Pistachio plugin" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-350" width="150" height="100" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-1" value="Full offline support for Pistachio plugin" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-2" target="nsW-v02mXw-lNhzaYfIK-3">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-2" target="nsW-v02mXw-lNhzaYfIK-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-2" value="1. Install empty service worker for Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-2" value="1. Install empty service worker for Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="aDEIfjuQr7DnAW5cY1l8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-3" value="2. Implement static application shell for the admin page of Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-5" target="nsW-v02mXw-lNhzaYfIK-6">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-3" value="2. Implement static application shell for the admin page of Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-5" target="nsW-v02mXw-lNhzaYfIK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-5" value="3. Move data of candidate rows to the Redux global store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-5" value="3. Move data of candidate rows to the Redux global store" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-6" target="nsW-v02mXw-lNhzaYfIK-9">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-6" target="nsW-v02mXw-lNhzaYfIK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-6" value="4. Connect candidates Redux state with indexed db table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-6" value="4. Connect candidates Redux state with indexed db table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-8" target="nsW-v02mXw-lNhzaYfIK-9">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-8" target="nsW-v02mXw-lNhzaYfIK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-12">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-8" value="5. Select and introduce orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-8" value="5. Select and introduce orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-25">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-9" target="nsW-v02mXw-lNhzaYfIK-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-9" value="6. Move candidate &quot;update&quot; and &quot;delete&quot; operations to the orchestrator layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-9" value="6. Move candidate &quot;update&quot; and &quot;delete&quot; operations to the orchestrator layer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-14">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-16">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-18">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-12" target="nsW-v02mXw-lNhzaYfIK-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-12" value="7. Introduce job queues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-12" value="7. Introduce job queues" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-14" target="nsW-v02mXw-lNhzaYfIK-21">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-14" target="nsW-v02mXw-lNhzaYfIK-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-14" value="8. Ability to retry requests from the queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-14" value="8. Ability to retry requests from the queue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-16" target="nsW-v02mXw-lNhzaYfIK-21">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-16" target="nsW-v02mXw-lNhzaYfIK-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-16" value="9. Add support of scheduling of queued jobs in orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-16" value="9. Add support of scheduling of queued jobs in orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-18" target="nsW-v02mXw-lNhzaYfIK-21">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-18" target="nsW-v02mXw-lNhzaYfIK-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-18" value="10. Add scheduling of refreshing of candidate records list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-18" value="10. Add scheduling of refreshing of candidate records list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-21" target="nsW-v02mXw-lNhzaYfIK-27">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-21" target="nsW-v02mXw-lNhzaYfIK-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-21" value="11. Update request should modify the latest version of candidate record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-21" value="11. Update request should modify the latest version of candidate record" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-25" value="12. Check delete request failures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-25" value="12. Check delete request failures" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-29">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-33">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-27" value="13. Ability to detect conflicts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-27" value="13. Ability to detect conflicts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-29" target="nsW-v02mXw-lNhzaYfIK-36">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-29" target="nsW-v02mXw-lNhzaYfIK-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-29" value="14. Ability to resolve update operation conflicts automatically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-29" value="14. Ability to resolve update operation conflicts automatically" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-31" target="nsW-v02mXw-lNhzaYfIK-33">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-31" target="nsW-v02mXw-lNhzaYfIK-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-31" value="15. Conflict resolution dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-31" value="15. Conflict resolution dialog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-33" target="nsW-v02mXw-lNhzaYfIK-36">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-33" target="nsW-v02mXw-lNhzaYfIK-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-33" value="16. Ability to resolve update operation conflicts with merge dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-33" value="16. Ability to resolve update operation conflicts with merge dialog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-36" target="nsW-v02mXw-lNhzaYfIK-39">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-36" target="nsW-v02mXw-lNhzaYfIK-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-36" target="nsW-v02mXw-lNhzaYfIK-42">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-36" target="nsW-v02mXw-lNhzaYfIK-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-36" value="17. Introduce background synchronization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-36" value="17. Introduce background synchronization" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-39" target="nsW-v02mXw-lNhzaYfIK-1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nsW-v02mXw-lNhzaYfIK-39" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-39" value="18. Synchronization notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-70" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-39" value="18. Synchronization notification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-42" target="nsW-v02mXw-lNhzaYfIK-1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nsW-v02mXw-lNhzaYfIK-42" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-42" value="19. Warn user about the old data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-70" width="120" height="60" as="geometry" />
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-42" value="19. Warn user about the old data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-2" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aDEIfjuQr7DnAW5cY1l8-1" target="nsW-v02mXw-lNhzaYfIK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-1" value="20. &quot;Offline mode&quot; icon/message with a tooltip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
