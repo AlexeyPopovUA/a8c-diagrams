@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T13:09:36.159Z" agent="5.0 (X11)" etag="Wz2l3l0NpAU0dGUjH5Nb" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T13:13:44.156Z" agent="5.0 (X11)" etag="hbE1Pci-xoOwlx8pXfax" version="20.2.3" type="github">
   <diagram id="1GaKdVyMht3T5XDp56yV" name="Page-1">
-    <mxGraphModel dx="1145" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nsW-v02mXw-lNhzaYfIK-1" value="Full offline support for Pistachio plugin" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="150" height="100" as="geometry" />
+          <mxGeometry x="290" y="-100" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nsW-v02mXw-lNhzaYfIK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-2" target="nsW-v02mXw-lNhzaYfIK-3">
           <mxGeometry relative="1" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="nsW-v02mXw-lNhzaYfIK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="80" />
+              <mxPoint x="250" y="-60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,11 +80,35 @@
         <mxCell id="nsW-v02mXw-lNhzaYfIK-18" value="10. Add scheduling of refreshing of candidate records list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-21" target="nsW-v02mXw-lNhzaYfIK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nsW-v02mXw-lNhzaYfIK-21" value="11. Update request should modify the latest version of candidate record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nsW-v02mXw-lNhzaYfIK-25" value="12. Check delete request failures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-27" target="nsW-v02mXw-lNhzaYfIK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-27" value="13. Ability to detect conflicts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-29" value="14. Ability to resolve update operation conflicts automatically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-31" target="nsW-v02mXw-lNhzaYfIK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-31" value="15. Conflict resolution dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-33" value="16. Ability to resolve update operation conflicts with merge dialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
