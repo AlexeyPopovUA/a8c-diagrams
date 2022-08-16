@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T14:24:47.428Z" agent="5.0 (X11)" etag="yWzfOT9HnafkjgUo-Ya3" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T14:25:17.966Z" agent="5.0 (X11)" etag="wJA9MzaBvWv94RTHrBoQ" version="20.2.3" type="github">
   <diagram id="1GaKdVyMht3T5XDp56yV" name="Page-1">
     <mxGraphModel dx="1963" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,19 +128,19 @@
         <mxCell id="nsW-v02mXw-lNhzaYfIK-36" value="17. Introduce background synchronization" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-39" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-39" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nsW-v02mXw-lNhzaYfIK-39" value="18. Synchronization notification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-42" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-42" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nsW-v02mXw-lNhzaYfIK-42" value="19. Warn user about the old data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDEIfjuQr7DnAW5cY1l8-2" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aDEIfjuQr7DnAW5cY1l8-1" target="nsW-v02mXw-lNhzaYfIK-1">
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-2" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aDEIfjuQr7DnAW5cY1l8-1" target="nsW-v02mXw-lNhzaYfIK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aDEIfjuQr7DnAW5cY1l8-1" value="20. &quot;Offline mode&quot; icon/message with a tooltip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
