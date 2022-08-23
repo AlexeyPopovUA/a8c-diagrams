@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T14:25:17.966Z" agent="5.0 (X11)" etag="wJA9MzaBvWv94RTHrBoQ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T20:26:20.155Z" agent="5.0 (X11)" etag="SYE6SgNENKNd2V-p4yX7" version="20.2.4" type="github">
   <diagram id="1GaKdVyMht3T5XDp56yV" name="Page-1">
-    <mxGraphModel dx="1963" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,21 @@
         <mxCell id="nsW-v02mXw-lNhzaYfIK-2" value="1. Install empty service worker for Pistachio plugin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsW-v02mXw-lNhzaYfIK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="aDEIfjuQr7DnAW5cY1l8-1" edge="1">
+        <mxCell id="nsW-v02mXw-lNhzaYfIK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="vFXQE7QVFs3zqIV1qOd7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aDEIfjuQr7DnAW5cY1l8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-36">
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="nsW-v02mXw-lNhzaYfIK-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vFXQE7QVFs3zqIV1qOd7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsW-v02mXw-lNhzaYfIK-3" target="aDEIfjuQr7DnAW5cY1l8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="1080" />
+              <mxPoint x="40" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -140,11 +148,17 @@
         <mxCell id="nsW-v02mXw-lNhzaYfIK-42" value="19. Warn user about the old data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDEIfjuQr7DnAW5cY1l8-2" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aDEIfjuQr7DnAW5cY1l8-1" target="nsW-v02mXw-lNhzaYfIK-1">
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-2" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=5;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="aDEIfjuQr7DnAW5cY1l8-1" target="nsW-v02mXw-lNhzaYfIK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aDEIfjuQr7DnAW5cY1l8-1" value="20. &quot;Offline mode&quot; icon/message with a tooltip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aDEIfjuQr7DnAW5cY1l8-1" value="20. &quot;Offline mode&quot; icon/message with a tooltip" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFXQE7QVFs3zqIV1qOd7-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vFXQE7QVFs3zqIV1qOd7-1" target="nsW-v02mXw-lNhzaYfIK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFXQE7QVFs3zqIV1qOd7-1" value="21. Ability to cache candidate attachments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
